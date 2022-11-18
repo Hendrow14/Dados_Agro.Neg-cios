@@ -1,2 +1,2 @@
 # Data for Agribusiness.
-Programa desenvolvido para seguradoras voltadas a agronegócios.
+Program developed for insurance companies focused on agribusiness.
