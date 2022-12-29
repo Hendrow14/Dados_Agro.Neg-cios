@@ -10,11 +10,11 @@ Data for Agribusiness.
 Analysis developed for insurers focused on agribusiness. 
 </h2>
 
-<h4 align="center"> 
-	 Completed analysis ✅
-</h4>
 
-Libraries used.
+
+<h2 align="center">
+ 🛠 Technologies
+</h2>
 
 
 - Pandas https://pandas.pydata.org/
@@ -25,3 +25,6 @@ Libraries used.
 
 - Seaborn https://seaborn.pydata.org/
 
+<h4 align="center"> 
+	 Completed analysis ✅
+</h4>
