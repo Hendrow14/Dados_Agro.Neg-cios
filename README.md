@@ -10,6 +10,10 @@ Data for Agribusiness.
 Analysis developed for insurers focused on agribusiness. 
 </h2>
 
+<h4 align="center"> 
+	 Completed analysis ✅
+</h4>
+
 Libraries used.
 
 
