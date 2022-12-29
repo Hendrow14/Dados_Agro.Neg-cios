@@ -2,6 +2,10 @@
 Data for Agribusiness.
 </h1>
 
+<h1 align="center">
+<img src= "Agriculture.Logo.png" width="400" height="400" />
+</h1>
+
 Program developed for insurance companies focused on agribusiness.
 
 Libraries used.
