@@ -19,9 +19,9 @@ Analysis developed for insurers focused on agribusiness.
 
 -  [Python](https://www.python.org/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="15" />
 -  [VS CODE](https://code.visualstudio.com/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="15" />
-
-
-- Pandas https://pandas.pydata.org/
+- [Pandas](https://pandas.pydata.org/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="15" />  
+            
+          
 
 - Plotly Express in Python https://plotly.com/python/plotly-express/
 
