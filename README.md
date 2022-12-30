@@ -23,8 +23,7 @@ Analysis developed for insurers focused on agribusiness.
             
           
 
-- Plotly Express in Python https://plotly.com/python/plotly-express/
-
+- [Plotly](https://plotly.com/python/plotly-express/) <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" width="20" height="15" />
 - Matplotlib https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html
 
 - Seaborn https://seaborn.pydata.org/
